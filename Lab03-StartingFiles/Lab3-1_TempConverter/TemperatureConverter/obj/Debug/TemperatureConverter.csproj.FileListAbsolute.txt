@@ -1,0 +1,9 @@
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\obj\Debug\TemperatureConverter.FrmTemperature.resources
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\obj\Debug\TemperatureConverter.Properties.Resources.resources
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-1_TempConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb

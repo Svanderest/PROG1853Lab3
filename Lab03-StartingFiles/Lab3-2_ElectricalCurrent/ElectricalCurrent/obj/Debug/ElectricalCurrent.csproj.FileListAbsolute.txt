@@ -1,0 +1,8 @@
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\bin\Debug\ElectricalCurrent.exe
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\bin\Debug\ElectricalCurrent.pdb
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.FrmElectricalCurrent.resources
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.Properties.Resources.resources
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.exe
+C:\Users\sebas\Documents\Lab03-StartingFiles\Lab3-2_ElectricalCurrent\ElectricalCurrent\obj\Debug\ElectricalCurrent.pdb
